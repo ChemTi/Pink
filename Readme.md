@@ -1,6 +1,6 @@
-# Личный проект «{{projectTitle}}» 
+# Личный проект «{{Pink}}» 
 
-* Студент: [{{userName}}]({{userProfile}}).
+* Студент: [{{ChemTi}}]({{https://github.com/ChemTi/Pink}}).
 * Наставник: `Неизвестно`.
 
 ---
