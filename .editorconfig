@@ -10,12 +10,22 @@
 
 root = true
 
+# Для всех файлов используем
 [*]
+# кодировка
 charset = utf-8
+
+# на концах строк использовать ;
 end_of_line = lf
+
+# отступы в 2 пробела
 indent_size = 2
 indent_style = space
+
+# позволяет убедиться, что в конце файла всегда будет новая строка
 insert_final_newline = true
+
+# убрать пробелы из концов строк
 trim_trailing_whitespace = true
 
 [*.md]
